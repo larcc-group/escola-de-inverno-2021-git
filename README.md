@@ -35,7 +35,7 @@ Crie uma nova branch a partir da `main`, utilizando o seu usuário como identifi
 
 Para criar através do terminal/cmd o seu comando será conforme o exemplo abaixo
 
-`git checkout -b add\SEU-USUARIO`
+`git checkout -b add-SEU-USUARIO`
 
 Para verificar se está tudo certo com a sua branch, pode rodar o comando `git branch`
 
